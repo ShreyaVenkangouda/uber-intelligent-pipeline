@@ -1,0 +1,37 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Data
+data/raw/*
+data/processed/*
+*.csv
+*.parquet
+
+# Models
+*.pt
+*.pth
+*.ckpt
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Airflow
+airflow/logs/
