@@ -83,6 +83,29 @@ services:
       - ./spark/jobs:/opt/spark/jobs
       - ./data:/opt/spark/data
 
+  # =========================================================
+  # GNN - Graph Neural Network Environment
+  # =========================================================
+  gnn:
+    build:
+      context: ./gnn
+      dockerfile: Dockerfile
+
+    container_name: uber_gnn
+
+    depends_on:
+      - minio
+
+    environment:
+      MINIO_ENDPOINT: http://minio:9000
+      MINIO_ROOT_USER: admin
+      MINIO_ROOT_PASSWORD: admin12345
+      AWS_ACCESS_KEY_ID: admin
+      AWS_SECRET_ACCESS_KEY: admin12345
+
+    volumes:
+      - ./gnn:/app
+
 # =========================================================
 # PERSISTENT VOLUMES
 # =========================================================
