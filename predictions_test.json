@@ -1,0 +1,358 @@
+{
+    "count":  220,
+    "returned":  50,
+    "prediction_hour":  "2024-06-03 13:00:00",
+    "source":  "uber-data/predictions/next_hour",
+    "predictions":  [
+                        {
+                            "pickup_location":  140,
+                            "node_index":  109,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  5.232999801635742
+                        },
+                        {
+                            "pickup_location":  75,
+                            "node_index":  57,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  4.085000038146973
+                        },
+                        {
+                            "pickup_location":  137,
+                            "node_index":  106,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  4.063000202178955
+                        },
+                        {
+                            "pickup_location":  48,
+                            "node_index":  33,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.868000030517578
+                        },
+                        {
+                            "pickup_location":  170,
+                            "node_index":  138,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.859999895095825
+                        },
+                        {
+                            "pickup_location":  141,
+                            "node_index":  110,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.6500000953674316
+                        },
+                        {
+                            "pickup_location":  236,
+                            "node_index":  194,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.5369999408721924
+                        },
+                        {
+                            "pickup_location":  238,
+                            "node_index":  196,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.3959999084472656
+                        },
+                        {
+                            "pickup_location":  186,
+                            "node_index":  151,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.140000104904175
+                        },
+                        {
+                            "pickup_location":  161,
+                            "node_index":  129,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.0759999752044678
+                        },
+                        {
+                            "pickup_location":  237,
+                            "node_index":  195,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  3.009999990463257
+                        },
+                        {
+                            "pickup_location":  142,
+                            "node_index":  111,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.9649999141693115
+                        },
+                        {
+                            "pickup_location":  162,
+                            "node_index":  130,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.8889999389648438
+                        },
+                        {
+                            "pickup_location":  263,
+                            "node_index":  217,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.8489999771118164
+                        },
+                        {
+                            "pickup_location":  107,
+                            "node_index":  83,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.75600004196167
+                        },
+                        {
+                            "pickup_location":  234,
+                            "node_index":  192,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.75600004196167
+                        },
+                        {
+                            "pickup_location":  74,
+                            "node_index":  56,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.690000057220459
+                        },
+                        {
+                            "pickup_location":  229,
+                            "node_index":  187,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.6519999504089355
+                        },
+                        {
+                            "pickup_location":  233,
+                            "node_index":  191,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.631999969482422
+                        },
+                        {
+                            "pickup_location":  68,
+                            "node_index":  50,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.5899999141693115
+                        },
+                        {
+                            "pickup_location":  100,
+                            "node_index":  79,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.5850000381469727
+                        },
+                        {
+                            "pickup_location":  138,
+                            "node_index":  107,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.565999984741211
+                        },
+                        {
+                            "pickup_location":  79,
+                            "node_index":  61,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.440000057220459
+                        },
+                        {
+                            "pickup_location":  239,
+                            "node_index":  197,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.377000093460083
+                        },
+                        {
+                            "pickup_location":  41,
+                            "node_index":  28,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.315999984741211
+                        },
+                        {
+                            "pickup_location":  90,
+                            "node_index":  72,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.2200000286102295
+                        },
+                        {
+                            "pickup_location":  50,
+                            "node_index":  35,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.1480000019073486
+                        },
+                        {
+                            "pickup_location":  151,
+                            "node_index":  120,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.135999917984009
+                        },
+                        {
+                            "pickup_location":  166,
+                            "node_index":  134,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.114000082015991
+                        },
+                        {
+                            "pickup_location":  249,
+                            "node_index":  205,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.0889999866485596
+                        },
+                        {
+                            "pickup_location":  230,
+                            "node_index":  188,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  2.005000114440918
+                        },
+                        {
+                            "pickup_location":  164,
+                            "node_index":  132,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.996999979019165
+                        },
+                        {
+                            "pickup_location":  262,
+                            "node_index":  216,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.9950000047683716
+                        },
+                        {
+                            "pickup_location":  163,
+                            "node_index":  131,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.9620000123977661
+                        },
+                        {
+                            "pickup_location":  43,
+                            "node_index":  30,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.9620000123977661
+                        },
+                        {
+                            "pickup_location":  143,
+                            "node_index":  112,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.9199999570846558
+                        },
+                        {
+                            "pickup_location":  42,
+                            "node_index":  29,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.8530000448226929
+                        },
+                        {
+                            "pickup_location":  132,
+                            "node_index":  101,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.6330000162124634
+                        },
+                        {
+                            "pickup_location":  113,
+                            "node_index":  85,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.503000020980835
+                        },
+                        {
+                            "pickup_location":  231,
+                            "node_index":  189,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.315000057220459
+                        },
+                        {
+                            "pickup_location":  24,
+                            "node_index":  14,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.24399995803833
+                        },
+                        {
+                            "pickup_location":  114,
+                            "node_index":  86,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.0859999656677246
+                        },
+                        {
+                            "pickup_location":  244,
+                            "node_index":  201,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.0130000114440918
+                        },
+                        {
+                            "pickup_location":  116,
+                            "node_index":  88,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  1.003999948501587
+                        },
+                        {
+                            "pickup_location":  87,
+                            "node_index":  69,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.8949999809265137
+                        },
+                        {
+                            "pickup_location":  148,
+                            "node_index":  117,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.8289999961853027
+                        },
+                        {
+                            "pickup_location":  152,
+                            "node_index":  121,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.7279999852180481
+                        },
+                        {
+                            "pickup_location":  246,
+                            "node_index":  202,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.7110000252723694
+                        },
+                        {
+                            "pickup_location":  144,
+                            "node_index":  113,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.597000002861023
+                        },
+                        {
+                            "pickup_location":  7,
+                            "node_index":  2,
+                            "input_hour":  "2024-06-03T12:00:00",
+                            "prediction_hour":  "2024-06-03T13:00:00",
+                            "predicted_demand":  0.5490000247955322
+                        }
+                    ]
+}
