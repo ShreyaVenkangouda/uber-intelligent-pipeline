@@ -21,6 +21,7 @@ import {
   Tooltip,
 } from 'recharts'
 import './App.css'
+import ZoneDemandMap from "./ZoneDemandMap";
 
 const API_URL = 'http://127.0.0.1:8000'
 
@@ -536,6 +537,10 @@ function App() {
           Historical model output · Prediction hour:{' '}
           {formatDateTime(predictionData?.prediction_hour)}
         </p>
+      </section>
+
+      <section className="panel zone-map-wrapper">
+        <ZoneDemandMap predictions={predictions} />
       </section>
 
       <footer>
